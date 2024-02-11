@@ -34,6 +34,11 @@
 
 ### 公司背景
 
+<figure markdown>
+![1](https://github.com/FamilyCASA/FamilyCASA.github.io/blob/main/images/co.jpg?raw=true){width=500}
+<figcaption>西调调办公大楼</figcaption>
+</figure>
+
 西调调的总部设立在成都崇州家具工业园，拥有2000多平方米的家居展厅和先进物流设施，确保高效率的产品供应和服务响应。西调调品牌运营中心位于德阳师古家具工业园，占地3千余平方米的家居全案展厅，以及3万余平方米的家具生产线。西调调设计与营销中台设在成都北三环路凤凰立交内侧的红星美凯龙写字楼，为其自有物业。
 
 图片：西调调·潮家整配崇州总部

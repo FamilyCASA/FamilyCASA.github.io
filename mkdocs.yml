@@ -40,9 +40,9 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/DINOREXNB
+      link: https://github.com/FamilyCASA
     - icon: fontawesome/brands/qq 
-      link: https://user.qzone.qq.com/1819539569
+      link: https://user.qzone.qq.com/342366274
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
@@ -80,5 +80,6 @@ nav:
   - 全案整配操作培训指南:
     - 西调调·潮家整配: index.md
     - 全案服务十大核心价值: 西调调家居全案服务的十大核心价值.md
+    - 为什么需要西调调全案设计服务: 为什么需要西调调全案设计服务.md
   
   

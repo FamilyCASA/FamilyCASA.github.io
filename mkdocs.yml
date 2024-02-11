@@ -38,6 +38,8 @@ theme:
     - search.suggest
     - navigation.footer
     - content.code.copy
+plugins:
+  - blog
 extra:
   social:
     - icon: fontawesome/brands/github-alt

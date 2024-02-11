@@ -1,0 +1,56 @@
+site_name: FamilyCASA
+copyright: 'Copyright &copy; 2023 - 2024 FamilyCASA'
+
+theme:
+  logo: https://github.com/DINOREXNB/DINOREXNB.github.io/blob/main/assets/logo.png?raw=true
+  name: material
+  language: zh
+  icon:
+    previous: fontawesome/solid/angle-left
+    next: fontawesome/solid/angle-right
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.sections
+    - navigation.prune
+    - navigation.top
+    - search.share
+    - search.highlight
+    - search.suggest
+    - navigation.footer
+    - content.code.copy
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/DINOREXNB
+    - icon: fontawesome/brands/qq 
+      link: https://user.qzone.qq.com/1819539569
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - 全案整配操作培训指南:
+    - 西调调·潮家整配: index.md
+    - 全案服务十大核心价值: 西调调家居全案服务的十大核心价值.md
+  
+  

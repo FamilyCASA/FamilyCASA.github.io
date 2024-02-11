@@ -1,4 +1,4 @@
-![LOGO](https://github.com/FamilyCASA/FamilyCASA.github.io/blob/main/docs/images/logo.png?raw=true)
+![LOGO](https://github.com/FamilyCASA/FamilyCASA.github.io/blob/main/images/logo.png?raw=true)
 ## 1.品牌价值
 
 “西调调”是一个专注于家居全案服务落地的品牌，“西调调·潮家整配”通过家居“全案服务”的手法，为用户提供和落地高颜值、高品质、高性价比的家居产品和服务。西调调不仅仅关注家居服务的颜值和品质，更注重产品与用户生活场景的完美结合。西调调认为，舒适美观的家居环境是用户幸福感和满足感的重要来源。
@@ -20,7 +20,7 @@
 ### (1)品牌创始人
 
 <figure markdown>
-![1](https://github.com/FamilyCASA/FamilyCASA.github.io/blob/main/docs/images/penghuan.png?raw=true){width=400}
+![1](https://github.com/FamilyCASA/FamilyCASA.github.io/blob/main/images/penghuan.png?raw=true){width=400}
 <figcaption>创始人彭欢先生</figcaption>
 </figure>
 
